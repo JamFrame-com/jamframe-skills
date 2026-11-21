@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jamframe": {
+      "type": "http",
+      "url": "https://app.jamframe.com/mcp"
+    }
+  }
+}
